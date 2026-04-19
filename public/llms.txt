@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+נגריית גנים היא הנגריה השכונתית שמביאה לך מוצרי עץ מקוריים, עבודת יד אמיתית וייחודית. כל פריט מגולף באהבה ומותאם בדיוק לצרכיך. בואו לגלות את ההבדל.
+
+### שירותים
+https://example.com/services
+מרהיטי גינה מפוסלים ועד ארונות מותאמים אישית — שירותי הנגרות של נגריית גנים מכסים כל צורך בעץ. נגר מקצועי לעבודות עץ בשכונה, איכות ללא פשרות בכל פרויקט.
+
+### אודות
+https://example.com/about
+נגריית גנים נולדה מאהבה אמיתית למלאכת העץ ולקהילה המקומית. הכירו את הנגר שמאחורי כל יצירה, את הערכים שמנחים אותנו ואת המחויבות שלנו לאותנטיות ואיכות בלתי מתפשרת.
+
+### צור קשר
+https://example.com/contact
+רוצה רהיט עץ מקורי שייצור לך בדיוק כמו שדמיינת? צור קשר עם נגריית גנים עוד היום — נשמח לשמוע על הרעיון שלך, לתת הצעת מחיר ולהפוך את החלום לעץ אמיתי.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
